@@ -1,0 +1,20 @@
+{
+  "short_name": "ネット速度計",
+  "name": "インターネット回線の速度をリアルタイムで！",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "speed.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffefba",
+  "background_color": "#ffffff"
+}
